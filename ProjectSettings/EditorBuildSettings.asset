@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu UI.unity
     guid: cfab8d5fe3b58d4469f5eef6e7c5b1fd
+  - enabled: 1
+    path: Assets/Scenes/Chambre.unity
+    guid: 93204a6f69b05ec489059227c98e95bd
+  - enabled: 1
+    path: Assets/Scenes/Salle de bain.unity
+    guid: 4f0ed1dc36fcfcd47b292aed601999b0
   m_configObjects: {}
